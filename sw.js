@@ -12,7 +12,7 @@ const INMUTABLE_CACHE ='inmutable-v1';
 
 //contiene todo lo necesario para que funcione la aplicasion cache dinamico todo lo que se puede cambiar
 const APP_SHELL =[
-'/',
+// '/',
 'index.html',
 'css/style.css',
 'img/favicon.ico',
