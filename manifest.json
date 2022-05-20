@@ -6,9 +6,10 @@
   "theme_color": "#F0DB4F",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "./?utm_source=web_app_manifest",
-  "scope": "index.html",
-  "lang": "es-MX",
+  "id":"/?index.php=1",
+  "start_url":"/?index.php=1",
+
+  "lang": "es-co",
   "icons": [
         {
             "src": "img/icons/icon-72x72.png",
