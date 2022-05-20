@@ -1,14 +1,15 @@
 {
-
-
-	"short_name": "Twittor",
-	"name": "Twittor para heroes",
-	"start_url":"index.html",
-	"background_color":"#3498db",
-	"display":"standalone",
-    "orientation":"portrait",
-    "theme_color":"#3498db",
-    "icons": [
+  "name": "Twittor",
+  "short_name": "Twittor",
+  "description": "Twittor para heores",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "index.html",
+  "lang": "es-MX",
+  "icons": [
         {
             "src": "img/icons/icon-72x72.png",
             "type": "image/png",
@@ -50,6 +51,6 @@
             "sizes": "512x512"
         }
     ]
-
-
 }
+
+
